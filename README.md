@@ -4,7 +4,7 @@ AI Crew Matcher is an intelligence system that helps match yacht crew with the r
 Finding the right crew for a yacht is often time-consuming and based on subjective assessments. 
 Recruitment agencies and yacht owners spend a lot of time reviewing CVs and contacting candidates. 
 AI Crew Matcher aims to make the process faster, fairer and more data-driven.
-
+ 
 Problems the project aims to solve:
 * Manual and biased recruitment processes in yachting
 * Time loss due to irrelevant applications
